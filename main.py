@@ -10,8 +10,8 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, Messa
 # --- CONFIGURAÇÕES ---
 TOKEN = "8916142078:AAEkckEk3StYkY1L4HtDQBzsSb1fqnEv15I"
 GROUP_ID = -5456488883
-ADMINS = {7848571699, 6301719544}
-GATEWAY_NAME = "Default Gateway"
+ADMINS = {8960993508, 6301719544}
+GATEWAY_NAME = "Stripe"
 BOT_ACTIVE = True
 
 # Códigos de erro para cartões "Die"
